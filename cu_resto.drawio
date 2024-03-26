@@ -1,9 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T08:46:46.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.1.0" etag="UcdbhsUVHX3viG_NQ7cG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T15:15:32.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qDiSHuW1xk9efprjlcdP" version="24.2.0" type="github">
   <diagram name="Page-1" id="ss9QAAfs7CM8etfNX1Tq">
-    <mxGraphModel>
+    <mxGraphModel dx="1000" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-1" target="RaJwt_tfRtVEs1-RfRbx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-1" target="RaJwt_tfRtVEs1-RfRbx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-1" value="client sur table&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-2" value="&lt;span id=&quot;docs-internal-guid-c79c1736-7fff-4fd4-9958-a0d314a2d02f&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Accéder au menu en scannant le code QR sur la table&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-3" value="&lt;span id=&quot;docs-internal-guid-8d7e4b69-7fff-a37f-a468-47b45fd36e52&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Passer des commandes directement à partir de l’application.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-4" target="RaJwt_tfRtVEs1-RfRbx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-4" value="&lt;span id=&quot;docs-internal-guid-2113cbe9-7fff-072d-64da-172c1b2d1587&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt; Suivre en temps réel l&#39;avancement de la commande.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-5" target="RaJwt_tfRtVEs1-RfRbx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-9" value="client à distance&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-11" value="&lt;span id=&quot;docs-internal-guid-8c5d7878-7fff-8703-6d5d-d0cfee46931e&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Réserver une table à l’avance.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-14" target="RaJwt_tfRtVEs1-RfRbx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-14" target="RaJwt_tfRtVEs1-RfRbx-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-14" target="RaJwt_tfRtVEs1-RfRbx-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-14" value="gestionnaire du&amp;nbsp;&lt;div&gt;restaurant&amp;nbsp;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-15" target="RaJwt_tfRtVEs1-RfRbx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-15" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;b id=&quot;docs-internal-guid-4068b907-7fff-19ed-b30c-016f84e85819&quot; style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;&quot;&gt;&amp;nbsp;Recevoir et valider les réservations de tables&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-16" target="RaJwt_tfRtVEs1-RfRbx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-16" value="&lt;span id=&quot;docs-internal-guid-2fde700c-7fff-7c70-d47c-61f89b199e7b&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Recevoir et traiter les commandes passées par les clients.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-17" target="RaJwt_tfRtVEs1-RfRbx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-17" value="&lt;span id=&quot;docs-internal-guid-725adc20-7fff-e1d8-ecf4-9ea60ec8921f&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Accéder aux statistiques de vente &lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="790" width="182.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-18" value="&lt;span id=&quot;docs-internal-guid-3528211a-7fff-3525-bedc-4bd928fe4b30&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;&amp;nbsp;Résoudre les problèmes techniques&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-19" value="&lt;span id=&quot;docs-internal-guid-02acfa00-7fff-6507-ab25-22c07328c5fd&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Répondre aux questions des utilisateurs&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1060" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-20" target="RaJwt_tfRtVEs1-RfRbx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-20" value="equipe de support&amp;nbsp;&lt;div&gt;technique&amp;nbsp;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="950" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.362;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-9" target="RaJwt_tfRtVEs1-RfRbx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.047;entryY=0.784;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-9" target="RaJwt_tfRtVEs1-RfRbx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.015;entryY=0.387;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-20" target="RaJwt_tfRtVEs1-RfRbx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-37" value="SYSTEME" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="540" height="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-44" value="envoyer des notification de&amp;nbsp; rappel pour les réservations" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="360" y="1080" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-46" value="envoyer notification de validation de commande&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="365" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-49" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="190" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-50" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="215" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-5" value="&lt;span id=&quot;docs-internal-guid-cf0d469b-7fff-714c-5c3f-a6788cfbf6cc&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Demander l&#39;addition une fois le repas terminé.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="330" y="270" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-51" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="260" y="540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-52" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=15;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="275" y="660" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-13" value="&lt;span id=&quot;docs-internal-guid-cd1c1a3b-7fff-a230-ce75-30a254d950ba&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;Se connecter à la plateforme d&#39;administration&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="370" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-53" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RaJwt_tfRtVEs1-RfRbx-37">
+          <mxGeometry x="290" y="780" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-43" target="RaJwt_tfRtVEs1-RfRbx-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="système de notification" treeRoot="1" id="RaJwt_tfRtVEs1-RfRbx-43">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="690" y="1140" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="RaJwt_tfRtVEs1-RfRbx-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RaJwt_tfRtVEs1-RfRbx-46" target="RaJwt_tfRtVEs1-RfRbx-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
