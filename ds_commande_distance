@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T10:35:48.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="s2t8nZRESxSiNvgPmDRS" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T10:38:06.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zkgntgMFSqQBNMYbdlgV" version="24.2.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1747" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,12 +51,12 @@
         </mxCell>
         <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-9" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="50" y="350" as="sourcePoint" />
-            <mxPoint x="260" y="350" as="targetPoint" />
+            <mxPoint x="275" y="340" as="sourcePoint" />
+            <mxPoint x="485" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-10" value="valide la commande" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="320" width="130" height="30" as="geometry" />
+          <mxGeometry x="310" y="320" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-16" value="client à distance&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
@@ -108,6 +108,15 @@
         </mxCell>
         <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-27" value="membre du restaurant" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-29" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="350" as="sourcePoint" />
+            <mxPoint x="260" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-30" value="envoie une notification de validation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
