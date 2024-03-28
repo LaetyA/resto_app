@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T10:38:06.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zkgntgMFSqQBNMYbdlgV" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T10:38:46.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wXvysAJK7PJvAyA7E9GE" version="24.2.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1747" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,23 +40,14 @@
             <mxPoint x="269.5" y="162.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-5" value="" style="endArrow=openThin;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="55" y="310" as="sourcePoint" />
-            <mxPoint x="265" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-7" value="effectue le paiement" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-9" value="" style="endArrow=none;dashed=1;endFill=0;endSize=12;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="275" y="340" as="sourcePoint" />
             <mxPoint x="485" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-10" value="valide la commande" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="320" width="130" height="30" as="geometry" />
+        <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-10" value="reçoit le paiement et&amp;nbsp;&lt;div&gt;valide la commande&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="320" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_zVvqmpTUY6LMZYGZ2Hv-16" value="client à distance&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="80" width="110" height="30" as="geometry" />
